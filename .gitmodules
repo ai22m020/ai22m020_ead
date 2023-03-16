@@ -1,3 +1,6 @@
 [submodule "ai22m020/vendor/spdlog"]
 	path = ai22m020/vendor/spdlog
 	url = https://github.com/gabime/spdlog
+[submodule "ai22m020/vendor/GLFW"]
+	path = ai22m020/vendor/GLFW
+	url = https://github.com/TheCherno/glfw.git
